@@ -1,6 +1,6 @@
 #The combination of functions defined below are used together to invert
 #a matrix and then store the inverted matrix in cache memory for easy access
-
+#Author Gregory Green
 #This first function takes a square matrix as an argument and creates a list.
 #One of the list element will become the cached matrix
 
