@@ -7,7 +7,7 @@
 makeCacheMatrix<-function(x=matrix()){
 	m<-NULL 
 	set<-function(y){
-		x<<-y #Set the matrix m to the agument passed through the set function
+		x<<-y #Set the matrix x to the agument passed through the set function
 		m<<-NULL
 	}
 	get<-function() x  #Function passed to the output variable list
